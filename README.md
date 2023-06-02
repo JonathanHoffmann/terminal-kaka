@@ -1,5 +1,5 @@
 # terminal-kaka
-Shows an image of this weeks cake.
+Shows an image of this weeks cake in the terminal.
 
 ## Installation
 Save the script somewhere.
