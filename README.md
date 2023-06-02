@@ -15,3 +15,8 @@ I recommend making an alias for the script, my example with oh-my-zsh.<br />
 `vi ~/.zshrc`<br />
 add the row (change the path)<br />
 `alias kaka="/path/to/script/terminal-kaka/fredagskakan.sh"`
+
+## Usage
+If you followed the steps above the command is:<br />
+`kaka`<br />
+Otherwise you probably know how to run it yourself.
